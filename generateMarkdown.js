@@ -56,7 +56,7 @@ function generateMarkdown(data) {
   ${data.testing}
   \`\`\`
   ## Demo
-  [Link](https://watch.screencastify.com/v/5wSNqoxiZK3NXHiUCzHr)
+  [Link](https://watch.screencastify.com/v/8l2yFofvPhFeqeWYVlGu)
   ## License
 
   This project is licensed under ${renderLicenseBadge(data.license)} license.

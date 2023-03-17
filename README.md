@@ -1,9 +1,9 @@
-# adsad
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Professional README Generator
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Description
 
-  sdad
+  This is use to generate a high quality README for projects.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -19,33 +19,33 @@
   Run the following command to install necessary dependencies:
 
   ```
-  asdasd
+  npm i
   ```
   ## Usage
 
-  asd
+  Follow the installation instructions and answer the terminal prompts.
 
   ## Contribution
 
-  dasd
+  Please contact me to submit a pull request.
 
   ## Tests
   Run these commands to start testing:
   
   ```
-  as
+  npm test
   ```
   ## Demo
   [Link](https://watch.screencastify.com/v/5wSNqoxiZK3NXHiUCzHr)
   ## License
 
-  This project is licensed under [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) license.
+  This project is licensed under [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) license.
 
 
   ## Questions
   Please contact me through github or email down below:
 
-  github: das
+  github: https://github.com/slurpsz
   
-email: asd
+email: khtbee@gmail.com
   
