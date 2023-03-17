@@ -7,7 +7,7 @@
 <ol>
 <li><a href="#installation">Installation</a></li>
 <li><a href="#usage">Usage</a></li>
-<li><a href="#contributing">Contribution</a></li>
+<li><a href="#contribution">Contribution</a></li>
 <li><a href="#testing">Tests</a></li>
 <li><a href="#demo">Demo</a></li>
 <li><a href="#license">License</a></li>

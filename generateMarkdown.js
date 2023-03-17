@@ -28,7 +28,7 @@ function generateMarkdown(data) {
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Contribution](#contributing)
+  * [Contribution](#contribution)
   * [Tests](#tests)
   * [Demo](#demo)
   * [License](#license)
@@ -66,7 +66,7 @@ function generateMarkdown(data) {
   Please contact me through github or email down below:
 
   github: ${data.github}
-  email: ${data.email}
+  \nemail: ${data.email}
   
 `;
 }

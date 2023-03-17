@@ -1,14 +1,14 @@
-# Professional README Generator
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# sdasd
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
 
-  This is used to generate a professional README for projects.
+  asdasd
 
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Contribution](#contributing)
+  * [Contribution](#contribution)
   * [Tests](#tests)
   * [Demo](#demo)
   * [License](#license)
@@ -19,32 +19,33 @@
   Run the following command to install necessary dependencies:
 
   ```
-  npm i
+  asd
   ```
   ## Usage
 
-  Follow the installation instructions and answer the terminal prompts.
+  asd
 
   ## Contribution
 
-  Please contact me to submit a pull request.
+  sa
 
   ## Tests
   Run these commands to start testing:
   
   ```
-  npm test
+  d
   ```
   ## Demo
 
   ## License
 
-  This project is licensed under [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) license.
+  This project is licensed under [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) license.
 
 
   ## Questions
   Please contact me through github or email down below:
 
-  github: https://github.com/slurpsz
-  email: khtbee@gmail.com
+  github: asd
+  
+email: asdsa
   
