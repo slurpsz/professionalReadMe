@@ -3,7 +3,7 @@
 
   ## Description
 
-  This is use to generate a high quality README for projects.
+  This is used to generate a high quality README for projects.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -36,7 +36,7 @@
   npm test
   ```
   ## Demo
-  [Link](https://watch.screencastify.com/v/5wSNqoxiZK3NXHiUCzHr)
+  [Link](https://watch.screencastify.com/v/8l2yFofvPhFeqeWYVlGu)
   ## License
 
   This project is licensed under [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) license.
