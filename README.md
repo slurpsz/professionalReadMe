@@ -1,9 +1,9 @@
-# Professional README
-  https://img.shields.io/badge/License-Apache_2.0-blue.svg
+# Professional README Generator
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Description
 
-  This is used specifically for generating a README for projects.
+  This is used to generate a professional README for projects.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -23,25 +23,28 @@
   ```
   ## Usage
 
-  Follow the installation instructions and continue answering the following terminal prompts.
+  Follow the installation instructions and answer the terminal prompts.
 
   ## Contribution
 
-  undefined
+  Please contact me to submit a pull request.
 
   ## Tests
   Run these commands to start testing:
-
+  
   ```
-  undefined
+  npm test
   ```
   ## Demo
 
   ## License
 
-  This project is licensed under APACHE 2.0 license.
+  This project is licensed under [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) license.
 
 
   ## Questions
+  Please contact me through github or email down below:
 
-  Please contact me on github at slurpsz or email me at khtbee@gmail.com.
+  github: https://github.com/slurpsz
+  email: khtbee@gmail.com
+  
